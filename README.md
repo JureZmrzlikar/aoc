@@ -1,4 +1,3 @@
-# aoc2020
-Advent of code 2020
+# Advent of code
 
-https://adventofcode.com/
+My solutions for some of the [Advent of Code](https://adventofcode.com/) problems.
